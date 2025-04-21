@@ -25,7 +25,7 @@
     <string name="menu_open_random_article">Ouvrir un article au hasard</string>
     <string name="menu_syncLocalChanges">Synchroniser les changements locaux</string>
     <string name="d_deleteArticle_title">Supprimer l\'article ?</string>
-    <string name="d_deleteArticle_message">Êtes vous sûr·e de vouloir supprimer l\'article \?</string>
+    <string name="d_deleteArticle_message">Êtes vous sûr·e de vouloir supprimer l\'article ?</string>
     <string name="txtNetOffline">Vérifiez que vous êtes bien connecté à Internet.</string>
     <string name="txtConfigNotSet">Merci de configurer les paramètres avant de synchroniser.</string>
     <string name="txtUrlCopied">L\'URL de l\'article a été copiée dans le presse papier</string>
@@ -234,7 +234,7 @@
     <string name="pref_desc_imageCache_enabled">Télécharge automatiquement toutes les images de chaque article sur l\'appareil (prend du temps et de l\'espace disque si le nombre d\'articles est important)</string>
     <string name="pref_name_storage_dbPath">Emplacement de la base de données</string>
     <string name="pref_name_storage_dbPath_internalStorage">Stockage interne</string>
-    <string name="pref_name_storage_dbPath_externalStorage">Stockage externe</string>
+    <string name="pref_name_storage_dbPath_externalStorage" formatted="true">Stockage externe: %s</string>
     <string name="pref_name_storage_dbPath_dbMoved">La base de données a été déplacée</string>
     <string name="pref_categoryName_miscellaneous">Divers</string>
     <string name="pref_name_misc_appendWallabagMention">Ajouter la mention wallabag</string>
@@ -290,7 +290,7 @@
     <string name="notification_clipboardLabel">Détails de l\'erreur</string>
     <string name="notification_copyToClipboard">Copier dans le presse-papiers</string>
     <string name="notification_stacktrace">Pile d\'erreur :</string>
-    <string name="connectionWizard_misc_installQrCodeScanner">(Installez un lecteur de QR-codes au préalable.)</string>
+    <string name="connectionWizard_misc_installQrCodeScanner">(Installez un lecteur de QR codes au préalable.)</string>
     <string name="connectionWizard_misc_scanQrCode">Scanner un code QR</string>
     <string name="misc_localQueue_dumpToFile_header">Signalez les problèmes de synchronisation ici : %s</string>
     <string name="misc_localQueue_dumpToFile_result_error">Erreur : %s</string>

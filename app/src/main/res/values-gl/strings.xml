@@ -15,8 +15,8 @@
     <string name="ttsSpeed">Valorar</string>
     <string name="menuTTS">Texto a Fala</string>
     <string name="ttsVolume">Volume</string>
-    <string name="ttsLanguage">Elexir Idioma</string>
-    <string name="ttsVoice">Elexir Voz</string>
+    <string name="ttsLanguage">Elixir Idioma</string>
+    <string name="ttsVoice">Elixir Voz</string>
     <string name="ttsError">Erro no Texto a Fala</string>
     <string name="ttsAutoplayNextArticle">Repr.Auto. Seguinte Art.</string>
     <string name="ttsFastRewind">Retroceso rápido</string>
@@ -158,7 +158,7 @@
     <string name="manageTags_addMoreTags">Engadir máis etiquetas:</string>
     <string name="content_estimatedReadingTimeTTSLabel">Tempo estimado de lectura</string>
     <string name="listItem_estimatedReadingTime">%d min</string>
-    <string name="nav_other_about">Acerca de</string>
+    <string name="nav_other_about">Sobre</string>
     <string name="title_main_tag">Etiqueta: %s</string>
     <string name="d_disableTouch_changeKey_title">Botón para apagar o soporte táctil</string>
     <string name="d_disableTouch_currentCode">Tecla actualmente seleccionada (preme un botón para cambialo):</string>
@@ -171,9 +171,9 @@
 \n https://app.wallabag.it</string>
     <string name="pref_name_connection_password">Contrasinal</string>
     <string name="pref_name_connection_api_clientID">ID do Cliente</string>
-    <string name="pref_name_connection_api_clientSecret">Segreda do Cliente</string>
+    <string name="pref_name_connection_api_clientSecret">Chave secreta</string>
     <string name="pref_name_connection_autofill">Autocompletar</string>
-    <string name="pref_desc_connection_autofill">Comprobar a conexión e encher o ID e Chave secreta do cliente</string>
+    <string name="pref_desc_connection_autofill">Comprobar a conexión e completar co ID e Chave secreta do cliente</string>
     <string name="pref_categoryName_connection_advanced">Axustes avanzados de conexión</string>
     <string name="pref_categoryName_connection_advanced_httpAuth">Autenticación Básica HTTP</string>
     <string name="pref_categoryDesc_connection_advanced_httpAuth">Se non sabes o que é, déixao baleiro</string>
@@ -245,7 +245,7 @@
     <string name="pref_desc_imageCache_enabled">Descargar de xeito automático todas as imaxes dos artigos no dispositivo (levaralle bastante tempo e espazo se a lista de artigos é moi longa)</string>
     <string name="pref_name_storage_dbPath">Localización da base de datos</string>
     <string name="pref_name_storage_dbPath_internalStorage">Almacenaxe interna</string>
-    <string name="pref_name_storage_dbPath_externalStorage">Almacenaxe externa</string>
+    <string name="pref_name_storage_dbPath_externalStorage" formatted="true">Almacenaxe externa: %s</string>
     <string name="pref_name_storage_dbPath_dbMoved">Moveuse a base de datos</string>
     <string name="pref_name_misc_appendWallabagMention">Incluír mención a wallabag</string>
     <string name="pref_desc_misc_appendWallabagMention">Engadir \"vía @wallabagapp\" aos textos compartidos</string>
